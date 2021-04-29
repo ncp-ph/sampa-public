@@ -10,6 +10,9 @@ https://github.com/ncp-ph/sampa-public/blob/main/diagrams/sampa-dm1-L1.1.png
 
 [Data Flow](https://github.com/ncp-ph/sampa-public/blob/main/diagrams/sampa-dm1-L1.1.png)
 
+![alt-text][x]  
+[x]: /diagrams/sampa-dm1-L1.1.png
+
 
 ![alt-text][erd1]  
 [erd1]: /diagrams/sampa-dm1-L1.1.png  
