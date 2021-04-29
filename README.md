@@ -4,7 +4,7 @@ Sampa public github
 ## diagrams
 Use [this link to use Diagrams.net](https://app.diagrams.net/?splash=0&p=anon).
 
-
+https://github.com/ncp-ph/sampa-public/blob/main/diagrams/sampa-dm1-L1.1.png
 [Data Flow](/sampa-public/diagrams/sampa-dm1-L1.1.png)
 
 
